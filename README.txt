@@ -1,4 +1,4 @@
-**Description**:
+Description
 
 The Element55 Maketime Appliance stores passwords in cleartext within the application. This can be 
 seen by navigating to admin pages for Exchange, LDAP, SQL, and Shortel. Passwords that have been 
@@ -9,7 +9,7 @@ service accounts by themselves are often unnecessarily over-provisioned, meaning
 does gain access to them, they can escalate their privileges within a network. Finally, passwords 
 that are chosen for web consoles are often weak and guessable, such as admin:admin.
 
-**HTML Tag Locations**:
+HTML Tag Locations:
 LDAP:
 <input type=password name="settings[ldap_password]" value="password" size=20>
 
@@ -22,12 +22,12 @@ SQL:
 Shoretel:
 <input type=password name="settings[password]" value="password" size=20>
 
-**Fixed Version**:
+Fixed Version:
 22
 
-**Vulnerable Versions**:
+Vulnerable Versions:
 21 and older.
 
-**References**:
+References:
 http://getmaketime.com/
 https://cwe.mitre.org/data/definitions/312.html
