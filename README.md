@@ -5,9 +5,10 @@ I discovered this vulnerability in May of 2023. Element55 produces software for 
 
 ## Timeline
 
-May 24, 2023 - Reported vulnerability to Element 55
-May 25, 2023 - Element55 confirmed the vulnerability and said they would be fixing as part of version 22. (They were professional and great to work with)
-July 24, 2023 - Confirmed with Element 55 that is had been fixed.
+- May 24, 2023 - Reported vulnerability to Element 55
+- May 25, 2023 - Element55 confirmed the vulnerability and said they would be fixing as part of version 22. (They were professional and great to work with)
+- July 24, 2023 - Confirmed with Element 55 that is had been fixed.
+
 
 ## Vulnerability Description
 
